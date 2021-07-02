@@ -1,7 +1,5 @@
-### Hi there 🦝
+### Hi
 
-- 🔭 I’m currently working on a lot of things...
-- 🌱 I’m currently learning nextjs
-- 👯 I’m looking to collaborate on NFT
-- 💬 Ask me about everything
-- 📫 How to reach me: www.roark.at
+- 🦾 I’m currently working on a lot of things.
+- 🐀 Looking to collab on interresting API arbitrage ideas
+- 🕊 You can reach me at www.roark.at
